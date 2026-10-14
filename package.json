@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "hudsons-portfolio",
   "version": "1.0.0",
   "description": "Portfolio for W. Judu Hudson",
@@ -6,7 +6,6 @@
     "dev": "node server.js",
     "start": "node server.js"
   },
-  "keywords": [],
   "author": "W. Judu Hudson",
   "license": "MIT"
 }

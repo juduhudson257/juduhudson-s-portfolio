@@ -72,6 +72,7 @@ a {
   border-bottom: var(--border-thick);
   overflow: hidden;
   white-space: nowrap;
+  -webkit-user-select: none;
   user-select: none;
   position: relative;
   z-index: 100;
@@ -275,6 +276,7 @@ a {
   box-shadow: var(--shadow-sm);
   cursor: pointer;
   transition: transform 0.1s ease, box-shadow 0.1s ease;
+  -webkit-user-select: none;
   user-select: none;
 }
 
